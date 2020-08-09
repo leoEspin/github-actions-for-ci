@@ -1,1 +1,2 @@
 name: la caca's approval workflow
+on: pull_request_review
